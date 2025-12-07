@@ -10,14 +10,14 @@ Dwight D. Eisenhower — 34.º presidente dos Estados Unidos e general condecora
 
 ## 📸 Prévia da Aplicação
 
-![Preview da Aplicação](assets/imgAplicacao.png)
+![Preview da Aplicação](assets/imgAplicacao.PNG)
 
 
 ## Prévia da Aplicação
 
 
 <p align="center">
-<img src="assets/imgAplicacao.png" width="600" />
+<img src="assets/imgAplicacao.PNG" width="600" />
 </p>
 
 
