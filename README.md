@@ -2,7 +2,24 @@
 
 Uma aplicação desktop simples desenvolvida com **Electron.js** que implementa a **Matriz de Eisenhower** (também chamada de Matriz Urgente-Importante). A ferramenta permite criar tarefas, organizá-las por prioridade e armazená-las localmente em um arquivo JSON.
 
+ a Matriz de Eisenhower Trata-se de uma forma de organizar as tarefas por urgência e importância, para que se possa priorizar com eficiência os trabalhos mais importantes. 
+
+Dwight D. Eisenhower — 34.º presidente dos Estados Unidos e general condecorado com cinco estrelas durante a Segunda Guerra Mundial — apresentou a ideia que mais tarde culminaria na Matriz de Eisenhower. Num discurso de 1954, Eisenhower citou um reitor anônimo dizendo: “Tenho dois tipos de problema, o urgente e o importante. O urgente não é importante, e o importante nunca é urgente”. 
+
 ---
+
+## 📸 Prévia da Aplicação
+
+![Preview da Aplicação](assets/imgAplicacao.png)
+
+
+## Prévia da Aplicação
+
+
+<p align="center">
+<img src="assets/imgAplicacao.png" width="600" />
+</p>
+
 
 ## 📌 Funcionalidades
 
