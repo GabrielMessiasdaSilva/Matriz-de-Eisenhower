@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8"/>
+  <title>Matriz de Eisenhower</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+  <h1>Matriz de Eisenhower</h1>
+
+  <div id="form">
+    <input id="titulo" type="text" placeholder="Título da tarefa" />
+    <select id="categoria">
+      <option value="importante-urgente">Importante e Urgente</option>
+      <option value="importante-nao-urgente">Importante e Não Urgente</option>
+      <option value="nao-importante-urgente">Não Importante e Urgente</option>
+      <option value="nao-importante-nao-urgente">Não Importante e Não Urgente</option>
+    </select>
+    <button id="adicionar">Adicionar</button>
+  </div>
+
+  <div id="grid">
+    <div class="quadrante" id="importante-urgente">
+      <h2>Importante e Urgente</h2>
+      <div class="lista"></div>
+    </div>
+
+    <div class="quadrante" id="importante-nao-urgente">
+      <h2>Importante e Não Urgente</h2>
+      <div class="lista"></div>
+    </div>
+
+    <div class="quadrante" id="nao-importante-urgente">
+      <h2>Não Importante e Urgente</h2>
+      <div class="lista"></div>
+    </div>
+
+    <div class="quadrante" id="nao-importante-nao-urgente">
+      <h2>Não Importante e Não Urgente</h2>
+      <div class="lista"></div>
+    </div>
+  </div>
+
+  <script src="renderer.js"></script>
+</body>
+</html>
